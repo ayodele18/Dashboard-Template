@@ -89,7 +89,3 @@ The primary objective of this project is to provide a robust dashboard template 
 
 
 ---
-
-
-
-This version expands on the project overview, key features, dataset utilization, development process, and purpose, providing a more comprehensive understanding of your dashboard template project. Adjust the content further as needed to fit specific project details and objectives.
